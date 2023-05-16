@@ -11,7 +11,7 @@ using namespace std;
 #define fr(i,r,n)                 		for(int i=r;i>=n;i--)
 #define pb push_back
 
-//Calculating euclidean distance b/w cluster center and a point
+//Calculating euclidean distance b/w cluster center and a point. Just a dummy commit
 double dist(vector<double> x10, vector<double> c10, int n){
 	double d = 0;
 	/*f0(i,2) cout<<x10[i]<<" ";
